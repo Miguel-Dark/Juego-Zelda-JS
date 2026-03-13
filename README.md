@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-zelda.png" alt="Zelda-Style JS Dungeon Crawler Banner" width="100%" />
+  <img src="images/banner-zelda.png" alt="Zelda-Style JS Dungeon Crawler Banner" width="100%" />
 </p>
 
 <p>
