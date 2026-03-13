@@ -1,4 +1,6 @@
-<h1>Zelda-Style JS Dungeon Crawler</h1>
+<p align="center">
+  <img src="banner-zelda.png" alt="Zelda-Style JS Dungeon Crawler Banner" width="100%" />
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
